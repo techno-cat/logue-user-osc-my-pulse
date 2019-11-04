@@ -2,8 +2,10 @@
 My first oscillator for KORG minilogue-xd.
 This project was created based on `demos/waves` for my own understanding.
 
-# How to use
-Change `PLATFORMDIR` of Makefile according to your environment.
+# How to build
+1. Clone (or download) and setup [logue-sdk](https://github.com/korginc/logue-sdk).
+1. Clone (or download) this project.
+1. Change `PLATFORMDIR` of Makefile according to your environment.
 
 # LICENSE
 Copyright 2019 Tomoaki Itoh
