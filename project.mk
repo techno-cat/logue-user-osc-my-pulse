@@ -6,8 +6,9 @@ PROJECT = my_pulse
 
 UCSRC = 
 
-UCXXSRC = my_pulse.cpp
+UCXXSRC = ../user/my_pulse.cpp
 
+# NOTE: Relative path from `Makefile` that refer this file.
 UINCDIR =
 
 UDEFS =
