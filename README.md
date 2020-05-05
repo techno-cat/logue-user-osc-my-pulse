@@ -2,8 +2,6 @@
 My first oscillator for KORG minilogue-xd.
 This project was created based on `demos/waves` for my own understanding.
 
-***Supported NTS-1 from v1.0-1.***
-
 # How to build
 1. Clone (or download) and setup [logue-sdk](https://github.com/korginc/logue-sdk).
 1. Clone (or download) this project.
